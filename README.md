@@ -1,7 +1,7 @@
 # O-2
 Этот репозиторий - база всего кода к проекту "Огородник - 2", а также текущее расположение кода проекта "РобоСервер". 3d модели и прочие не кодовые данные проекта могут быть найдены по [ссылке](https://drive.google.com/drive/folders/1uUOcRc5gdFFmDTRLksJ7Ht7D-vq_HLFW?usp=drive_link).
 
-![alt text](https://github.com/krasnoteh/O-2/blob/master/images/robot.jpg?raw=true)
+![alt text](https://github.com/krasnoteh/O-2/blob/main/images/robot.JPG?raw=true)
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/images/image.jpg?raw=true)
 
